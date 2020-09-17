@@ -11,10 +11,6 @@
 				<xr:ObjectId>031e9656-4c95-4547-b1d8-be20f076eece</xr:ObjectId>
 			</xr:ContainedObject>
 			<xr:ContainedObject>
-				<xr:ClassId>e68182ea-4237-4383-967f-90c1e3370bc7</xr:ClassId>
-				<xr:ObjectId>9fcb338a-e8ac-477e-816d-fa47320b3b52</xr:ObjectId>
-			</xr:ContainedObject>
-			<xr:ContainedObject>
 				<xr:ClassId>e3687481-0a87-462c-a166-9f34594f9bba</xr:ClassId>
 				<xr:ObjectId>21483e6d-53b0-454b-8204-0d661a87dae6</xr:ObjectId>
 			</xr:ContainedObject>
@@ -25,6 +21,10 @@
 			<xr:ContainedObject>
 				<xr:ClassId>51f2d5d8-ea4d-4064-8892-82951750031e</xr:ClassId>
 				<xr:ObjectId>fdd3ff43-3482-4187-8792-cec2934d3645</xr:ObjectId>
+			</xr:ContainedObject>
+			<xr:ContainedObject>
+				<xr:ClassId>e68182ea-4237-4383-967f-90c1e3370bc7</xr:ClassId>
+				<xr:ObjectId>9fcb338a-e8ac-477e-816d-fa47320b3b52</xr:ObjectId>
 			</xr:ContainedObject>
 			<xr:ContainedObject>
 				<xr:ClassId>fb282519-d103-4dd3-bc12-cb271d631dfc</xr:ClassId>
@@ -52,7 +52,7 @@
 			<ScriptVariant>Russian</ScriptVariant>
 			<DefaultRoles/>
 			<Vendor>Коллектив программистов "А1"</Vendor>
-			<Version>2020-07-12</Version>
+			<Version>2020-09-17</Version>
 			<BriefInformation/>
 			<DetailedInformation/>
 			<Copyright/>
