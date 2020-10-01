@@ -52,7 +52,7 @@
 			<ScriptVariant>Russian</ScriptVariant>
 			<DefaultRoles/>
 			<Vendor>Коллектив программистов "А1"</Vendor>
-			<Version>2020-09-17</Version>
+			<Version>2020-10-01</Version>
 			<BriefInformation/>
 			<DetailedInformation/>
 			<Copyright/>
@@ -62,9 +62,10 @@
 		<ChildObjects>
 			<Language>Русский</Language>
 			<CommonPicture>А1Д_СтруктураПодчиненности</CommonPicture>
-			<SessionParameter>А1Э_СвязиСсылокИСистемныхКодов</SessionParameter>
 			<SessionParameter>А1Э_ПараметрыМеханизмов</SessionParameter>
+			<SessionParameter>А1Э_СвязиСсылокИСистемныхКодов</SessionParameter>
 			<Role>А1Д_Администратор</Role>
+			<Role>ПолныеПрава</Role>
 			<CommonModule>А1Д_А1СписокМеханизмов</CommonModule>
 			<CommonModule>А1Д_КомпонентДопПолеОбъекта</CommonModule>
 			<CommonModule>А1Д_СвязиОбъектов</CommonModule>
